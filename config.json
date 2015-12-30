@@ -1,0 +1,7 @@
+{
+  "PHANTOMJS_PATH" : "/home/jarek/phantomjs/bin/phantomjs",
+  "VAT_SOURCE" : "/home/jarek/VAT.xlsx",
+  "OUTPUT_FILE" : "/home/jarek/results.xls",
+  "VAT_COLUMN_INDEX" : "13",
+  "VAT_COLUMN_CONTAINS_TITLE" : "True"
+}
